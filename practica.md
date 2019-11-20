@@ -8,9 +8,9 @@
 Escriba un programa que lea un número impar del teclado y genere una matriz cuadrada donde, sin repetir
 ningún numero,la suma de las filas, columnas y diagonales da el mismo número. Por ejemplo en la matriz
 siguiente la suma es 15.
-|   |   |   |
-|:-:|:-:|:-:|
+
 | 6 | 1 | 8 |
+|:-:|:-:|:-:|
 | 7 | 5 | 3 |
 | 2 | 9 | 4 |
 
@@ -37,6 +37,7 @@ Sino existe la palabra imprima -1.
 | :--------------------------------------------------:|  :-------------------------:  |
 |                   abcdefOrOefg                      |            6 8                |
 |      NingunProblemaOrODeberiaResolverseOrOdosVeces  |            14 16              |
+
 
 
 ## Ejercicio Nº #2 : Cifrado Cesar
@@ -68,6 +69,7 @@ los guiones bajos por espacio. Deje los caracteres de separación de palabras si
 Donde los numeros 1 y 5 del ejemplo son valores de K 
 
 
+
 ## Ejercicio Nº #3 : Jackiado
 ### Descripción
 Le jackiaron su contraseña de Facebook a Botas, y publicaron en Infoamigos que es gay, Ahora debe crear una nueva contraseña y esta vez no debe ser tan obvia.
@@ -87,6 +89,8 @@ Si la contraseña es segura, imprimir "Dale no te jackiaran esta vez." sin comil
 |      31-06-1996                                      |      No va dar Botas                       |
 |      D0R4_l4_Expl0r4D0r4_I_<3_U                      |      Dale no te jackiaran esta vez         |
 
+
+
 ***
 ## Ejercicios con Pilas
 ## Ejercicio Nº #1
@@ -101,6 +105,8 @@ Si la contraseña es segura, imprimir "Dale no te jackiaran esta vez." sin comil
     do{
         System.out.println("\n"+p.quitar());
     }while(!p.pilaVacia());
+
+
 
 ## Ejercicio Nº #2
 ### Descripcion
@@ -128,6 +134,7 @@ Como entrada de datos llenar la pila A y la pila B. (Los tipos de datos es a cri
 * Desplegar la pila A y la pila B
 * Mostrar "Es sombrero de la pila B" si todos los datos ocupan posiciones mas proximas a su tope.
 * Mostrar "No es sombreo de la pila B" cuando algun dato no ocupe las mismas posiciones proximas a su tope.
+
 
 ## Ejercicio Nº #4
 ### Descripcion
@@ -182,6 +189,7 @@ Registrar n alumnos en la pila implementada para almacenar Objetos de tipo alumn
 * Desplegar la cantidad de reprobados.
 * Desplegar el promedio de calificacion de todo los alumnos.
 * Mostrar la cantidad de varones y cantidad mujeres.
+
 
 ***
 ## Ejercicios con Colas
