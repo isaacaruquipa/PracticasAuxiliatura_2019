@@ -8,11 +8,11 @@
 Escriba un programa que lea un número impar del teclado y genere una matriz cuadrada donde, sin repetir
 ningún numero,la suma de las filas, columnas y diagonales da el mismo número. Por ejemplo en la matriz
 siguiente la suma es 15.
-|  |  |  |
-|-|-|-|
-|6|1|8|
-|7|5|3|
-|2|9|4|
+|   |   |   |
+|:-:|:-:|:-:|
+| 6 | 1 | 8 |
+| 7 | 5 | 3 |
+| 2 | 9 | 4 |
 
 ***
 ## Ejercicios con cadenas
@@ -32,8 +32,9 @@ La entrada consiste de una cadena en letras mayusculas y minusculas.
 
 Imprima en la salida la posición donde esta la palabra ORO, puede ser en mayusculas y minusculas indistintamente.
 Sino existe la palabra imprima -1.
+
 |     Ejemplo Entrada                                  |      Ejemplo Salida           |
-|  --------------------------------------------------- |   --------------------------  |
+| :-------------------------------------------------- :|  :-------------------------:  |
 |                   abcdefOrOefg                       |            6 8                |
 |      NingunProblemaOrODeberiaResolverseOrOdosVeces   |            14 16              |
 
@@ -60,7 +61,7 @@ Para cada caso de prueba escriba una linea con el texto cifrado en minúsculas, 
 los guiones bajos por espacio. Deje los caracteres de separación de palabras sin cambio.
 
 |     Ejemplo Entrada           |      Ejemplo Salida           |
-|  ---------------------------  |   --------------------------  |
+| :---------------------------: |  : ------------------------:  |
 | 1   ingenieria_de_sistemas    |  JOHFOJFSJB EF TJTUFNBT       |
 | 5   inteligencia_artificial   |  NSYJQNLJHNF FWYNKNHNFQ       |
 Donde los numeros 1 y 5 del ejemplo son valores de K 
@@ -75,8 +76,9 @@ La entrada comienza con T casos de prueba (1<=T<=100000). Cada caso de preuba es
 
 ### Salida
 Si la contraseña es segura, imprimir "Dale no te jackiaran esta vez." sin comillas. Caso contrario imprimir "No va dar Botas."
+
 |     Ejemplo Entrada                                  |      Ejemplo Salida                        |
-|  --------------------------------------------------- |   ---------------------------------------  |
+|  :-------------------------------------------------: |   :-------------------------------------:  |
 |                   5                                  |                                            |
 |      Botas123                                        |      No va dar Botas                       |
 |      75803727                                        |      No va dar Botas                       |
@@ -196,7 +198,7 @@ Registrar **N** alumnos en la cola.
 ***
 ***
 ## Formato de cabecera  de la practica.
-![Con titulo](FormatoCabecera.png "FormatoCabecera")
+![Con titulo](https://github.com/isaacaruquipa/PracticasAuxiliatura_2019/blob/master/FormatoCabecera.PNG "FormatoCabecera")
 
 
 ## Adjuntar en documento pdf lo siguiente.
@@ -209,8 +211,9 @@ Registrar **N** alumnos en la cola.
 ***
 ### Entregar practica 
 {#cabecera1}
-### Enviar por correo [Isaac Aruquipa ](emailto:isaac2019aruquipa@gmail.com "Correo electronico")
-### Enviar por whatsapp [Isaac Aruquipa ]("")
+### Enviar por correo [Isaac Aruquipa ](mailto:isaac2019aruquipa@gmail.com "Correo electronico")
+    isaac2019aruquipa@gmail.com
+### 
 
 
 
