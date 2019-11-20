@@ -33,10 +33,10 @@ La entrada consiste de una cadena en letras mayusculas y minusculas.
 Imprima en la salida la posición donde esta la palabra ORO, puede ser en mayusculas y minusculas indistintamente.
 Sino existe la palabra imprima -1.
 
-|     Ejemplo Entrada                                  |      Ejemplo Salida           |
-| :-------------------------------------------------- :|  :-------------------------:  |
-|                   abcdefOrOefg                       |            6 8                |
-|      NingunProblemaOrODeberiaResolverseOrOdosVeces   |            14 16              |
+|     Ejemplo Entrada                                 |      Ejemplo Salida           |
+| :--------------------------------------------------:|  :-------------------------:  |
+|                   abcdefOrOefg                      |            6 8                |
+|      NingunProblemaOrODeberiaResolverseOrOdosVeces  |            14 16              |
 
 
 ## Ejercicio Nº #2 : Cifrado Cesar
@@ -60,10 +60,11 @@ natural k > 0, suguido de una cadena 1<= |cadena| <=50 de solo letras minusculas
 Para cada caso de prueba escriba una linea con el texto cifrado en minúsculas, Remplace 
 los guiones bajos por espacio. Deje los caracteres de separación de palabras sin cambio.
 
-|     Ejemplo Entrada           |      Ejemplo Salida           |
-| :---------------------------: |  : ------------------------:  |
-| 1   ingenieria_de_sistemas    |  JOHFOJFSJB EF TJTUFNBT       |
-| 5   inteligencia_artificial   |  NSYJQNLJHNF FWYNKNHNFQ       |
+|     Ejemplo Entrada           |      Ejemplo Salida          |
+| :---------------------------: |  :-------------------------: |
+| 1   ingenieria_de_sistemas    |  JOHFOJFSJB EF TJTUFNBT      |
+| 5   inteligencia_artificial   |  NSYJQNLJHNF FWYNKNHNFQ      |
+
 Donde los numeros 1 y 5 del ejemplo son valores de K 
 
 
