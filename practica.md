@@ -8,7 +8,7 @@
 Escriba un programa que lea un número impar del teclado y genere una matriz cuadrada donde, sin repetir
 ningún numero,la suma de las filas, columnas y diagonales da el mismo número. Por ejemplo en la matriz
 siguiente la suma es 15.
-| | | |
+|  |  |  |
 |-|-|-|
 |6|1|8|
 |7|5|3|
@@ -117,7 +117,7 @@ Cuando termina el proceso el programa debe escribir el contenido de las n Pilas 
 Se dice que una Pila dada es sombre de otra si todos los datos de la pila p aparecen en la otra en el mismo orden y ocupando las pisiciones más próximas a su tope.
 * **Nota** Una pila vacía es sombrero de cualquier otra pila
 
-![Con titulo](SombreroPila.png "Sombreo de la pila")
+![Con titulo](https://github.com/isaacaruquipa/PracticasAuxiliatura_2019/blob/master/SombreroPila.PNG "Sombreo de la pila")
 
 ### Entrada 
 Como entrada de datos llenar la pila A y la pila B. (Los tipos de datos es a criterio).
